@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/Aarzoo/Mtech%20AI/Recordings/sem3/MLOPS/Assignment%202/MLOPS-bits-Group41-Assignment2/mlruns/348015786251331807/b64e546a4eaf4817802e61930021dcaf/artifacts
+end_time: 1742733007247
+entry_point_name: ''
+experiment_id: '348015786251331807'
+lifecycle_stage: active
+run_id: b64e546a4eaf4817802e61930021dcaf
+run_name: Model_E10_adam
+run_uuid: b64e546a4eaf4817802e61930021dcaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742732912469
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,16 @@
+artifact_uri: file:f:/Aarzoo/Mtech AI/Recordings/sem3/MLOPS/Assignment 2/MLOPS-bits-Group41-Assignment2/mlruns/461736735024588101/8cd84c0e4cef496089e1c1030f92a38e/artifacts
+deleted_time: 1742732521008
+end_time: 1742672670762
+entry_point_name: ''
+experiment_id: '461736735024588101'
+lifecycle_stage: deleted
+run_id: 8cd84c0e4cef496089e1c1030f92a38e
+run_name: Optimized_H2O_Model
+run_uuid: 8cd84c0e4cef496089e1c1030f92a38e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742672667051
+status: 4
+tags: []
+user_id: Lenovo
